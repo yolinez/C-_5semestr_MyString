@@ -1,0 +1,7 @@
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\obj\Debug\_01.csprojAssemblyReference.cache
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\obj\Debug\_01.csproj.CoreCompileInputs.cache
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\bin\Debug\_01.exe.config
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\bin\Debug\_01.exe
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\bin\Debug\_01.pdb
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\obj\Debug\_01.exe
+C:\Users\MenBearPig\Desktop\Ситников ООП\JUSTDOIT\Mine\_01\obj\Debug\_01.pdb
