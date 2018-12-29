@@ -1,0 +1,6 @@
+F:\RiderProjects\BestGitHub\BestGitHub\bin\Debug\BestGitHub.exe
+F:\RiderProjects\BestGitHub\BestGitHub\bin\Debug\BestGitHub.pdb
+F:\RiderProjects\BestGitHub\BestGitHub\obj\Debug\BestGitHub.csprojAssemblyReference.cache
+F:\RiderProjects\BestGitHub\BestGitHub\obj\Debug\BestGitHub.csproj.CoreCompileInputs.cache
+F:\RiderProjects\BestGitHub\BestGitHub\obj\Debug\BestGitHub.exe
+F:\RiderProjects\BestGitHub\BestGitHub\obj\Debug\BestGitHub.pdb

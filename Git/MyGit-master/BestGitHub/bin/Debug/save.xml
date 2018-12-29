@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<Git xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_dictionary>
+    <Dictionary>
+      <path>F:\GitTest1</path>
+      <Applyed>false</Applyed>
+      <GitFiles>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\DOOM (OpenGL).lnk</FileName>
+          <Size>659</Size>
+          <Created>04.10.2018 11:43:18</Created>
+          <Modified>02.10.2018 19:14:25</Modified>
+          <Path>F:\GitTest1\DOOM (OpenGL).lnk</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\GitHub Desktop.lnk</FileName>
+          <Size>2420</Size>
+          <Created>04.10.2018 11:43:25</Created>
+          <Modified>30.09.2018 21:57:50</Modified>
+          <Path>F:\GitTest1\GitHub Desktop.lnk</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\Photoshop.lnk</FileName>
+          <Size>822</Size>
+          <Created>04.10.2018 11:43:15</Created>
+          <Modified>25.07.2018 9:30:31</Modified>
+          <Path>F:\GitTest1\Photoshop.lnk</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\text1.txt</FileName>
+          <Size>0</Size>
+          <Created>04.10.2018 11:42:56</Created>
+          <Modified>04.10.2018 11:42:56</Modified>
+          <Path>F:\GitTest1\text1.txt</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\text2.txt</FileName>
+          <Size>0</Size>
+          <Created>04.10.2018 11:43:00</Created>
+          <Modified>04.10.2018 11:42:56</Modified>
+          <Path>F:\GitTest1\text2.txt</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>F:\GitTest1\text3.txt</FileName>
+          <Size>0</Size>
+          <Created>04.10.2018 11:43:00</Created>
+          <Modified>04.10.2018 11:42:56</Modified>
+          <Path>F:\GitTest1\text3.txt</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>File1</FileName>
+          <Size>-1</Size>
+          <Created>04.10.2018 11:42:41</Created>
+          <Modified>04.10.2018 11:42:41</Modified>
+          <Path>F:\GitTest1\File1</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>File2</FileName>
+          <Size>-1</Size>
+          <Created>04.10.2018 11:42:46</Created>
+          <Modified>04.10.2018 11:42:46</Modified>
+          <Path>F:\GitTest1\File2</Path>
+          <Applyed>true</Applyed>
+        </Node>
+        <Node>
+          <FileStatus>Added</FileStatus>
+          <FileName>File3</FileName>
+          <Size>-1</Size>
+          <Created>04.10.2018 11:42:50</Created>
+          <Modified>04.10.2018 11:42:50</Modified>
+          <Path>F:\GitTest1\File3</Path>
+          <Applyed>true</Applyed>
+        </Node>
+      </GitFiles>
+    </Dictionary>
+  </_dictionary>
+  <_choosenDictionary>
+    <path>F:\GitTest1</path>
+    <Applyed>false</Applyed>
+    <GitFiles>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\DOOM (OpenGL).lnk</FileName>
+        <Size>659</Size>
+        <Created>04.10.2018 11:43:18</Created>
+        <Modified>02.10.2018 19:14:25</Modified>
+        <Path>F:\GitTest1\DOOM (OpenGL).lnk</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\GitHub Desktop.lnk</FileName>
+        <Size>2420</Size>
+        <Created>04.10.2018 11:43:25</Created>
+        <Modified>30.09.2018 21:57:50</Modified>
+        <Path>F:\GitTest1\GitHub Desktop.lnk</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\Photoshop.lnk</FileName>
+        <Size>822</Size>
+        <Created>04.10.2018 11:43:15</Created>
+        <Modified>25.07.2018 9:30:31</Modified>
+        <Path>F:\GitTest1\Photoshop.lnk</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\text1.txt</FileName>
+        <Size>0</Size>
+        <Created>04.10.2018 11:42:56</Created>
+        <Modified>04.10.2018 11:42:56</Modified>
+        <Path>F:\GitTest1\text1.txt</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\text2.txt</FileName>
+        <Size>0</Size>
+        <Created>04.10.2018 11:43:00</Created>
+        <Modified>04.10.2018 11:42:56</Modified>
+        <Path>F:\GitTest1\text2.txt</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>F:\GitTest1\text3.txt</FileName>
+        <Size>0</Size>
+        <Created>04.10.2018 11:43:00</Created>
+        <Modified>04.10.2018 11:42:56</Modified>
+        <Path>F:\GitTest1\text3.txt</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>File1</FileName>
+        <Size>-1</Size>
+        <Created>04.10.2018 11:42:41</Created>
+        <Modified>04.10.2018 11:42:41</Modified>
+        <Path>F:\GitTest1\File1</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>File2</FileName>
+        <Size>-1</Size>
+        <Created>04.10.2018 11:42:46</Created>
+        <Modified>04.10.2018 11:42:46</Modified>
+        <Path>F:\GitTest1\File2</Path>
+        <Applyed>true</Applyed>
+      </Node>
+      <Node>
+        <FileStatus>Added</FileStatus>
+        <FileName>File3</FileName>
+        <Size>-1</Size>
+        <Created>04.10.2018 11:42:50</Created>
+        <Modified>04.10.2018 11:42:50</Modified>
+        <Path>F:\GitTest1\File3</Path>
+        <Applyed>true</Applyed>
+      </Node>
+    </GitFiles>
+  </_choosenDictionary>
+</Git>
