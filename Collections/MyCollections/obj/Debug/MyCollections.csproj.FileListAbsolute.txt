@@ -1,0 +1,13 @@
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.csprojAssemblyReference.cache
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+F:\RiderProjects\MyCollections\MyCollections\bin\Debug\MyCollections.exe
+F:\RiderProjects\MyCollections\MyCollections\bin\Debug\MyCollections.pdb
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.exe
+F:\RiderProjects\MyCollections\MyCollections\obj\Debug\MyCollections.pdb
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\bin\Debug\MyCollections.exe.config
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\bin\Debug\MyCollections.exe
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\bin\Debug\MyCollections.pdb
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\obj\Debug\MyCollections.csprojAssemblyReference.cache
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\obj\Debug\MyCollections.exe
+C:\Users\MenBearPig\Desktop\Ситников ООП\MyCollections-master\MyCollections\obj\Debug\MyCollections.pdb
